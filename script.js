@@ -12,4 +12,4 @@ while (i < shoppingList.length){
     i++
 }
 
-listContainer.innerHTML = list + '</ul>';
+listContainer.innerHTML = `${list}</ul>`;
